@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/044a78f4323340ddbc51b102614db657/artifacts
+end_time: 1741554306937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 044a78f4323340ddbc51b102614db657
+run_name: melodic-hog-673
+run_uuid: 044a78f4323340ddbc51b102614db657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741554181946
+status: 3
+tags: []
+user_id: ppadi

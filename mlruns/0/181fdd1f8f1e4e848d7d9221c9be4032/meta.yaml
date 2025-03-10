@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/181fdd1f8f1e4e848d7d9221c9be4032/artifacts
+end_time: 1741555950711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181fdd1f8f1e4e848d7d9221c9be4032
+run_name: unruly-elk-967
+run_uuid: 181fdd1f8f1e4e848d7d9221c9be4032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741555777076
+status: 3
+tags: []
+user_id: ppadi

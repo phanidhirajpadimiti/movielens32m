@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/4b54fa34756e4ffb91b4306f1d6c0a5a/artifacts
+end_time: 1741553961710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b54fa34756e4ffb91b4306f1d6c0a5a
+run_name: redolent-elk-567
+run_uuid: 4b54fa34756e4ffb91b4306f1d6c0a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741553812252
+status: 3
+tags: []
+user_id: ppadi

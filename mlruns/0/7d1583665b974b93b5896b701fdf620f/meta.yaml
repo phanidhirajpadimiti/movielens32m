@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/7d1583665b974b93b5896b701fdf620f/artifacts
+deleted_time: 1741553145698
+end_time: 1741552480132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7d1583665b974b93b5896b701fdf620f
+run_name: sincere-frog-186
+run_uuid: 7d1583665b974b93b5896b701fdf620f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741552301458
+status: 4
+tags: []
+user_id: ppadi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/adcf9ad7b69a47b78d4f6b519df4d313/artifacts
+end_time: 1741556529478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adcf9ad7b69a47b78d4f6b519df4d313
+run_name: serious-crab-716
+run_uuid: adcf9ad7b69a47b78d4f6b519df4d313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741556468133
+status: 3
+tags: []
+user_id: ppadi

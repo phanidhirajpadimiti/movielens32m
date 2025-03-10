@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/f2a4da9ff16747479a1da11756f7b1ac/artifacts
+end_time: 1741555399280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2a4da9ff16747479a1da11756f7b1ac
+run_name: loud-kit-458
+run_uuid: f2a4da9ff16747479a1da11756f7b1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741555351126
+status: 3
+tags: []
+user_id: ppadi

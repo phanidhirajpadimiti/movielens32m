@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/78df1acf1cc847f0b73af4bb9cd60d91/artifacts
+deleted_time: 1741553145699
+end_time: 1741551147404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 78df1acf1cc847f0b73af4bb9cd60d91
+run_name: classy-skink-575
+run_uuid: 78df1acf1cc847f0b73af4bb9cd60d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741551115438
+status: 4
+tags: []
+user_id: ppadi

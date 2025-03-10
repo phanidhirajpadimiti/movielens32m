@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/e654b76184e6461fb87e9970a53bae1f/artifacts
+end_time: 1741556316036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e654b76184e6461fb87e9970a53bae1f
+run_name: gregarious-ox-561
+run_uuid: e654b76184e6461fb87e9970a53bae1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741556254099
+status: 3
+tags: []
+user_id: ppadi

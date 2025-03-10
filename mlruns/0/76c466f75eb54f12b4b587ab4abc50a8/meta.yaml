@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/76c466f75eb54f12b4b587ab4abc50a8/artifacts
+end_time: 1741556468109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76c466f75eb54f12b4b587ab4abc50a8
+run_name: gifted-gnu-874
+run_uuid: 76c466f75eb54f12b4b587ab4abc50a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741556316060
+status: 3
+tags: []
+user_id: ppadi

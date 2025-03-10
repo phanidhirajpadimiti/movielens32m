@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/b69e334f77054425b82e4f968c91460f/artifacts
+end_time: 1741555618980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b69e334f77054425b82e4f968c91460f
+run_name: melodic-croc-183
+run_uuid: b69e334f77054425b82e4f968c91460f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741555399302
+status: 3
+tags: []
+user_id: ppadi

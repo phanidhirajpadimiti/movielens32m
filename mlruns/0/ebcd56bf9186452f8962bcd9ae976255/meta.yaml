@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/ebcd56bf9186452f8962bcd9ae976255/artifacts
+end_time: 1741556614356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebcd56bf9186452f8962bcd9ae976255
+run_name: judicious-trout-740
+run_uuid: ebcd56bf9186452f8962bcd9ae976255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741556529501
+status: 3
+tags: []
+user_id: ppadi

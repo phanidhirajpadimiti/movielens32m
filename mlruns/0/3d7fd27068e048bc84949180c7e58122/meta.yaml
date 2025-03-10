@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/3d7fd27068e048bc84949180c7e58122/artifacts
+end_time: 1741554658378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d7fd27068e048bc84949180c7e58122
+run_name: thundering-moose-264
+run_uuid: 3d7fd27068e048bc84949180c7e58122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741554434365
+status: 3
+tags: []
+user_id: ppadi

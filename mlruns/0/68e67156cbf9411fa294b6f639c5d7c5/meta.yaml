@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/68e67156cbf9411fa294b6f639c5d7c5/artifacts
+end_time: 1741555238224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68e67156cbf9411fa294b6f639c5d7c5
+run_name: ambitious-steed-924
+run_uuid: 68e67156cbf9411fa294b6f639c5d7c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741555061387
+status: 3
+tags: []
+user_id: ppadi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/3f8fb323a874491d9110be871bddfc2d/artifacts
+end_time: 1741554870871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f8fb323a874491d9110be871bddfc2d
+run_name: suave-slug-166
+run_uuid: 3f8fb323a874491d9110be871bddfc2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741554811743
+status: 3
+tags: []
+user_id: ppadi

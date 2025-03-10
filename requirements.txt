@@ -1,0 +1,6 @@
+pyspark
+mlflow
+pandas
+numpy
+jupyter
+hyperopt

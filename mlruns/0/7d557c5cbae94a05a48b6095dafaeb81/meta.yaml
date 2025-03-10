@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ppadi/OneDrive/Documents/Career/Data%20Science/movielens/mlruns/0/7d557c5cbae94a05a48b6095dafaeb81/artifacts
+deleted_time: 1741555847181
+end_time: 1741553441216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7d557c5cbae94a05a48b6095dafaeb81
+run_name: bemused-shrimp-186
+run_uuid: 7d557c5cbae94a05a48b6095dafaeb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741552787362
+status: 4
+tags: []
+user_id: ppadi
