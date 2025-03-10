@@ -51,11 +51,13 @@ Data is **stored in AWS S3** and loaded directly into Spark for processing.
 pip install boto3 s3fs pandas numpy matplotlib seaborn pyspark hyperopt mlflow
 ```
 ### 2️⃣ Run EDA
+```bash
 python MovieLens_EDA.ipynb
-
+```
 ### 3️⃣ Train ALS Model
+```bash
 python als_fine_tune.ipynb
-
+```
 🏆 Results
 The best ALS model achieved:
 
